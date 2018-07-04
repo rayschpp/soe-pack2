@@ -1,0 +1,7 @@
+{
+  "name": "soe-pack2",
+  "version": "0.2.0",
+  "description": "A library and utility for accessing SOE/Daybreak Games pack2 files",
+  "license": "MIT",
+  "main": "soe-pack2.js"
+}
